@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murlidhar Mewada</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **RBAC system**
+- 🔭 I’m currently working on **FreshlyGo**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React,DSA**
+- 💬 Ask me about **Frontend Development, Backend Development, Android Development, DSA, System Design**
 
 - 📫 How to reach me **murlidhar1105@gmail.com**
 
